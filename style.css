@@ -1,0 +1,14 @@
+.container {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 60rem;
+  background-color: grey;
+}
+
+.box {
+  display: inline-block;
+  width: 49.9%;
+  height: 100px;
+  background-color: green;
+}
