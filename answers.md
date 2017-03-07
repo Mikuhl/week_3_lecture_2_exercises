@@ -4,7 +4,7 @@ Week 3 Lecture 2 Exercises
 
 2. a) 1rem
 
-3. c) @media screen and (max-width: 1024px) { .. }
+3. d) @media screen and (min-width: 720px) and (max-width: 1024px) { ... }
 
 4. d) progressive enhancement
 
